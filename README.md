@@ -789,6 +789,7 @@ int main()
 ### 继承
 
 * 基类（父类）——&gt; 派生类（子类）
+* https://www.jianshu.com/p/fdd0fbf7cfa7
 
 ### 多态
 
